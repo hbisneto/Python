@@ -3,7 +3,7 @@ AnoAtual = date.today().year
 SoftwareName = "CONDICAO - STR"
 
 print("Nome:", SoftwareName)
-print("Versão: 1.1")
+print("Versão: 2.0")
 print("Criado por: Heitor Bisneto")
 print("Copyright © 2019 -", AnoAtual, "Bisneto. All rights reserved.")
 print("")
