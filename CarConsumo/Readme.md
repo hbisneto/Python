@@ -15,9 +15,9 @@
 - Comparar o valor da Gasolina com o valor do Etanol;
 - Retornar o valor total para completar o tanque do automóvel de acordo com o valor inserido;
 - Retornar o consumo médio do veículo de acordo com a distância que irá percorrer;
-- Retorna a quantidade de combustível para completar o tanque;
-- Retorna a porcentagem de abastecimento em tanque;
-- Retorna a porcentagem do espaço disponível em tanque;
+- Retornar a quantidade de combustível para completar o tanque;
+- Retornar a porcentagem de abastecimento em tanque;
+- Retornar a porcentagem do espaço disponível em tanque;
 
 
 
