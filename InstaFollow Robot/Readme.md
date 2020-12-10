@@ -1,4 +1,4 @@
-# InstaFollow Bot
+# InstaFollow Robot
 
 O robô percorre os seguidores do usuário autenticado. O robô também segue todos os usuários percorridos, desde que o usuário autenticado não siga a conta percorrida ainda.
 
