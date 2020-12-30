@@ -1,5 +1,8 @@
 # Python
 
+Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991.
+
+#
 Repositório de exemplos de códigos em Python. Alguns dos exemplos manipulam dados em diretórios de sistemas operacionais. Abaixo, estão algumas das recomendações de uso de software e sistemas operacionais:
 
 #
