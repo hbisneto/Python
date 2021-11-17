@@ -20,7 +20,7 @@ Uma função pode necessitar de alguns dados para que possa realizar alguma aç�
 
 #### Funções sem argumentos:
 
-Como o próprio nome diz, é uma função que não tem argumentos. Quando a função for chamada, o programa apenas irá imprimir "Hello World" na tela.
+Como o próprio nome diz, é uma função que não tem argumentos. Quando a função for chamada, o programa apenas irá imprimir "Hello World" na tela.
 
 ```
 def hello_world():
