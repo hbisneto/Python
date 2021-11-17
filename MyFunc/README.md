@@ -1,4 +1,4 @@
-# Funções
+# Funcções
 
 Uma função é um pedaço de código que faz alguma tarefa específica e pode ser chamado de qualquer parte do programa quantas vezes desejarmos.
 
