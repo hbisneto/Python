@@ -2,7 +2,7 @@
 
 Uma função é um pedaço de código que faz alguma tarefa específica e pode ser chamado de qualquer parte do programa quantas vezes desejarmos.
 
-#### Clareza do código:
+#### Clareza do código:
 Separando pedaços de código em funções, podemos entender mais facilmente o que cada parte do código faz. Além disso, para procurarmos por uma certa ação feita pelo programa, basta buscar a função correspondente. Isso torna muito mais fácil o ato de procurar por erros.
 
 #### Reutilização:
