@@ -21,6 +21,6 @@ except ValueError:
     checked = False
 
 if(checked == True):
-    print(checkPalindrome(number))
+    checkPalindrome(number)
 else:
     print("This is not a number")
